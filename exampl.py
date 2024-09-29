@@ -8,6 +8,8 @@ Implement and test argmax() function that returns the location of a maximum.
 
 print("Dette er alt for vanskelig, men jeg begynner å skjønne det!")
 
+print("Jeg trenger hjelp")
+
 def argmax(values):
     """
     Return the location and value of the maximum contained in a given sequence.
