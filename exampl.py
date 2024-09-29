@@ -6,6 +6,7 @@ Part 2, Lecture 1, Example 1
 Implement and test argmax() function that returns the location of a maximum.
 """
 
+print("Dette er alt for vanskelig, men jeg begynner å skjønne det!")
 
 def argmax(values):
     """
@@ -38,3 +39,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+    
+    
